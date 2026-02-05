@@ -1,15 +1,45 @@
-MTA Launcher
+<div align="center">
 
-dsc.gg/mtamc ' nin resmi MİNECRAFT LAUNCHERİ
+<img src="assets/logo.png" width="140" alt="MTA Launcher Logo"/>
 
-mta-ordusu.aternos.me adress
+# 🎮 MTA Launcher
 
+### Minecraft 1.10 için geliştirilmiş  
+**özel • sade • hızlı launcher**
 
+</div>
 
-Henüz açık kaynaklı yayınlamayı düşünmüyoruz
+---
 
+## 📌 Hakkında
 
+**MTA Launcher**, belirli bir Minecraft sunucusu için geliştirilmiş  
+**kapalı kaynak (closed-source)** bir launcher yazılımıdır.
 
+Kullanıcı deneyimi ön plandadır ve yalnızca gerekli işlevler sunulur.
 
+---
 
-developed by berbatsal, monik
+## ✨ Özellikler
+
+- ⚡ Hızlı ve stabil çalışma  
+- 🎮 Minecraft 1.10 uyumluluğu  
+- 🌐 Sunucuya otomatik bağlanma  
+- 👤 Offline (cracked) giriş  
+- 🖥️ Modern ve sade arayüz  
+
+---
+
+## 🔒 Kaynak Kodu
+
+❗ Bu proje **açık kaynak değildir**.  
+Kaynak kod paylaşılmaz, kopyalanamaz ve dağıtılamaz.
+
+---
+
+<div align="center">
+
+**MTA Launcher**  
+Hız • Sadelik • Kontrol
+
+</div>
