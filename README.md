@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="140" alt="MTA Launcher Logo"/>
+<img src="logo.png" width="140" alt="MTA Launcher Logo"/>
 
 # 🎮 MTA Launcher
 
